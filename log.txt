@@ -1,0 +1,22 @@
+Person Started: alphin | time: 2023-09-15 15:08:05.506008
+Name: alphin | Bicep counter: 1 | time: 2023-09-15 15:08:14.749271
+Name: alphin | Bicep counter: 2 | time: 2023-09-15 15:08:19.000623
+Name: alphin | Bicep counter: 3 | time: 2023-09-15 15:08:23.704160
+Person Completed Bicep Curl: alphin | time: 2023-09-15 15:08:23.705908
+Name: alphin | Squat counter: 1 | time: 2023-09-15 15:08:30.401041
+Name: alphin | Squat counter: 2 | time: 2023-09-15 15:08:36.095493
+Person Completed Squats: alphin | time: 2023-09-15 15:08:36.096931
+Person Completed Warmup: alphin | time: 2023-09-15 15:08:36.096949
+Name: alphin | Pushup counter: 1 | time: 2023-09-15 15:08:39.717712
+Name: alphin | Pushup counter: 2 | time: 2023-09-15 15:08:40.984748
+Person Completed pushups: alphin | time: 2023-09-15 15:08:40.987091
+Person Completed Workout: alphin | time: 2023-09-15 15:08:40.987143
+Person Started: kiran | time: 2023-09-15 15:08:54.309617
+Person Started: kiran | time: 2023-09-15 15:09:04.488158
+Person Started: madhav | time: 2023-09-15 15:09:40.050743
+Name: madhav | Bicep counter: 1 | time: 2023-09-15 15:09:47.076226
+Name: madhav | Bicep counter: 2 | time: 2023-09-15 15:09:48.578069
+Name: madhav | Bicep counter: 3 | time: 2023-09-15 15:09:50.078280
+Person Completed Bicep Curl: madhav | time: 2023-09-15 15:09:50.079664
+Person Started: alphin | time: 2023-09-15 15:11:05.215358
+Person Started: alphin | time: 2023-09-15 16:53:36.625245
